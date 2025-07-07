@@ -16,7 +16,7 @@ timezone:
 
 title: Thilen.art # the main title
 
-tagline: A space for my dumb projects :) # it will display as the subtitle
+tagline: A space for my projects :) # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -59,7 +59,7 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: # fill in your Google Analytics ID
+    id: # fill in your Google Analytics I
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:

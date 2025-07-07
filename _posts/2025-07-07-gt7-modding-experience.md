@@ -7,7 +7,7 @@ author:
 tags: [Modding, GT7]
 summary: 
 ---
-![Image](https://cdn.mos.cms.futurecdn.net/4CT4RirSZTACDq9gJXoT2L.jpg)
+![Image](https://www.roadtovr.com/wp-content/uploads/2017/03/assetto-corsa-vr.jpg)
 I recently decided to experiment with Gran Turismo 7 on PlayStation and see how far I could push realism through unofficial tweaks and custom setups. While GT7 doesn't officially support PC mods, there are some community approaches to enhance visuals, force feedback, and cockpit immersion using external hardware and software tricks.
 
 I started by adjusting my motion rig profiles and adding a custom transducer setup. This gave me a much stronger sense of tire slip and road texture, making the car feel much more alive, especially on technical tracks like Suzuka or Nordschleife.
