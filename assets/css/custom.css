@@ -1,0 +1,17 @@
+body {
+  background-color: #121212 !important;
+  color: #e0e0e0 !important;
+  background-image: url('/assets/img/runes.png') !important;
+  background-repeat: repeat !important;
+  background-position: center center !important;
+  background-size: 150px 150px !important;
+  padding: 1rem;
+}
+
+a, a:visited {
+  color: #66ccff !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #ffffff !important;
+}
