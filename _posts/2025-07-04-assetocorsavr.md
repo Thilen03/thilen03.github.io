@@ -2,9 +2,9 @@
 layout: post
 title: How I Improved VR Visuals and Performance in Assetto Corsa
 date: 2025-07-04 16:42
-category: [Sim Racing] 
+category: [Guide, Sim Racing] 
 author: 
-tags: [Modding]
+tags: [assettocorsa]
 summary: 
 ---
 ![Image](https://www.roadtovr.com/wp-content/uploads/2017/03/assetto-corsa-vr.jpg)
