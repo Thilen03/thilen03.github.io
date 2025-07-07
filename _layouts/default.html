@@ -22,12 +22,6 @@ layout: compress
     background-position: center center;
     background-size: 600px 600px;
   ">
-    <style>
-      footer {
-        display: none !important;
-      }
-    </style>
-
     {% include sidebar.html lang=lang %}
 
     <div id="main-wrapper" class="d-flex justify-content-center">
@@ -64,8 +58,7 @@ layout: compress
               {% assign _include_path = _include | append: '.html' %}
               {% include {{ _include_path }} lang=lang %}
             {% endfor %}
-
-            {% include_cached footer.html lang=lang %}
+            <!-- Footer completely removed -->
           </div>
         </div>
 
